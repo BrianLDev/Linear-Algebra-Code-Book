@@ -11,10 +11,10 @@ All code is written in python 3 via Jupyter notebooks, along with Markdown text 
 ---
 
 ## Links to chapter notes:
-- [Ch 2: Vectors](Ch02.ipynb)
-- [Ch 3: Vector multiplication](Ch03.ipynb)
-- [Ch 4: Vector spaces](Ch04.ipynb)
-- [Ch 5: Matrices](Ch05.ipynb)
+- [Ch 2: Vectors](Ch02-Vectors.ipynb)
+- [Ch 3: Vector multiplication](Ch03-Vector_Multiplication.ipynb)
+- [Ch 4: Vector spaces](Ch04-Vector_Spaces.ipynb)
+- [Ch 5: Matrices](Ch05-Matrices.ipynb)
 - [Ch 6: Matrix multiplication](Ch06-Matrix_Multiplication.ipynb)
 - [Ch 7: Rank](Ch07-Rank.ipynb)
 - [Ch 8: Matrix spaces](Ch08-Matrix_Spaces.ipynb)
